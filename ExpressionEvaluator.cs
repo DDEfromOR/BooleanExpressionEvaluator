@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BooleanExpressionReader
 {
-    class Program
+    class ExpressionEvaluator
     {
         static void Main(string[] args)
         {
